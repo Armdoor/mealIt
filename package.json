@@ -1,0 +1,11 @@
+{
+  "name": "mealit",
+  "version": "1.0.0",
+  "description": "A web based application that helps you find a meal based products available in your fridge or pantary",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armdoor",
+  "license": "ISC"
+}
